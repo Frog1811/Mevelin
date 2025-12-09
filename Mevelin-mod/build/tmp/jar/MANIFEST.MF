@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: mevelin_mod
+Specification-Vendor: FrogDev, Stefan
+Specification-Version: 1
+Implementation-Title: Mevelin-mod
+Implementation-Version: 1.0
+Implementation-Vendor: FrogDev, Stefan
+Implementation-Timestamp: 2025-12-09T12:17:13+0100
+
